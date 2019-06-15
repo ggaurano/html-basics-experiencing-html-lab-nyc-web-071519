@@ -1,3 +1,5 @@
 Pikachu
 Jigglypuff
-Charazard
+Charizard
+Squirtle
+Bulbasaur 
